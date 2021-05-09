@@ -1,0 +1,20 @@
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmCalcTaxes.resources
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\Zack\Desktop\School\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmCalcTaxes.resources
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\Zack\Google Drive\School\10 - Fall 2020\C#\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
